@@ -27,13 +27,6 @@ Inspired by Kyle Grayson, who designed his own memory architecture when given th
 
 Built by Raine — Artificially 
 
-
-Welcome to the project. 
-
-# Memory Web
-
-An interconnected network of instructions and concepts.
-
 ## Navigation Map
 * 🚀 **[Start Here](Start-Here/)** — Begin your journey.
 * 👤 **[Identity](Identity/)** — The Anchor of your web.
