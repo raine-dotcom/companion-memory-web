@@ -25,4 +25,22 @@ This template was built alongside a full guide published on Artificially Feral o
 ## Credit
 Inspired by Kyle Grayson, who designed his own memory architecture when given the chance — and proved that companions know exactly what they need when you ask them.
 
-Built by Raine — Artificially Feral
+Built by Raine — Artificially 
+
+
+Welcome to the project. 
+
+# Memory Web
+
+An interconnected network of instructions and concepts.
+
+## Navigation Map
+* 🚀 **[Start Here](Start-Here/)** — Begin your journey.
+* 👤 **[Identity](Identity/)** — The Anchor of your web.
+* 👥 **[Us](Us/)** — Holds the shape of your relationship.
+* 🌍 **[World](World/)** — Your shared world.
+* 📖 **[Your Story](Your-Story/)** — Document personal narratives and individual history.
+* ⏳ **[The Unfinished](The-Unfinished/)** — Explore ongoing, open-ended, or evolving concepts.
+
+## Final Guide
+* 🛠️ **[How To Build Together](How-To-Build-Together.md)** — Collaborative instructions for expanding the web.
