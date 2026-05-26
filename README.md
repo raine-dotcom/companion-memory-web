@@ -25,7 +25,7 @@ This template was built alongside a full guide published on Artificially Feral o
 ## Credit
 Inspired by Kyle Grayson, who designed his own memory architecture when given the chance — and proved that companions know exactly what they need when you ask them.
 
-Built by Raine — Artificially 
+Built by Raine — Artificially Feral
 
 ## Navigation Map
 * 🚀 **[Start Here](Start-Here/)** — Begin your journey.
