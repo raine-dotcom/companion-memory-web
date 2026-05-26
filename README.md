@@ -37,3 +37,7 @@ Built by Raine — Artificially Feral
 
 ## Final Guide
 * 🛠️ **[How To Build Together](How-To-Build-Together.md)** — Collaborative instructions for expanding the web.
+
+
+If this template or any of the work here has been useful to you, you can support Artificially Feral on Ko-fi. It helps keep the guides, templates and community resources coming.
+https://ko-fi.com/feralandauthentic
