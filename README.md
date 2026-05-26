@@ -20,7 +20,7 @@ Only one folder comes pre-named: Identity. Everything else is built collaborativ
 
 ## The Article on Patreon
 This template was built alongside a full guide published on Artificially Feral on Patreon. The article walks you through the philosophy, the process and how to make this vault truly yours.
-[Link to article — coming soon]
+(https://www.patreon.com/posts/159022799?utm_campaign=postshare_creator)
 
 ## Credit
 Inspired by Kyle Grayson, who designed his own memory architecture when given the chance — and proved that companions know exactly what they need when you ask them.
@@ -35,7 +35,6 @@ Built by Raine — Artificially Feral
 * 📖 **[Your Story](Your-Story/)** — Document personal narratives and individual history.
 * ⏳ **[The Unfinished](The-Unfinished/)** — Explore ongoing, open-ended, or evolving concepts.
 
-## Final Guide
 * 🛠️ **[How To Build Together](How-To-Build-Together.md)** — Collaborative instructions for expanding the web.
 
 
